@@ -1,0 +1,9 @@
+day,date,origin,destination,time,line
+Monday,2026-10-12,Canary Wharf,Farringdon,08:36,Elizabeth line
+Monday,2026-10-12,Farringdon,Canary Wharf,15:19,Elizabeth line
+Tuesday,2026-10-13,Canary Wharf,Farringdon,08:16,Elizabeth line
+Tuesday,2026-10-13,Farringdon,Canary Wharf,16:10,Elizabeth line
+Tuesday,2026-10-13,Canary Wharf,Baker Street,19:52,Jubilee line
+Tuesday,2026-10-13,Baker Street,Latimer Road,20:24,Circle line
+Wednesday,2026-10-14,Canary Wharf,Stratford,15:11,DLR
+Wednesday,2026-10-14,Stratford,Canary Wharf,20:37,Jubilee line
